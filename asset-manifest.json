@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/AgataImobiliaria/static/css/main.55f0022a.chunk.css",
-    "main.js": "/AgataImobiliaria/static/js/main.77596629.chunk.js",
-    "main.js.map": "/AgataImobiliaria/static/js/main.77596629.chunk.js.map",
+    "main.js": "/AgataImobiliaria/static/js/main.249a9ce1.chunk.js",
+    "main.js.map": "/AgataImobiliaria/static/js/main.249a9ce1.chunk.js.map",
     "runtime-main.js": "/AgataImobiliaria/static/js/runtime-main.1224093b.js",
     "runtime-main.js.map": "/AgataImobiliaria/static/js/runtime-main.1224093b.js.map",
-    "static/js/2.0128824b.chunk.js": "/AgataImobiliaria/static/js/2.0128824b.chunk.js",
-    "static/js/2.0128824b.chunk.js.map": "/AgataImobiliaria/static/js/2.0128824b.chunk.js.map",
+    "static/js/2.dd854e1c.chunk.js": "/AgataImobiliaria/static/js/2.dd854e1c.chunk.js",
+    "static/js/2.dd854e1c.chunk.js.map": "/AgataImobiliaria/static/js/2.dd854e1c.chunk.js.map",
     "static/js/3.708ce0d6.chunk.js": "/AgataImobiliaria/static/js/3.708ce0d6.chunk.js",
     "static/js/3.708ce0d6.chunk.js.map": "/AgataImobiliaria/static/js/3.708ce0d6.chunk.js.map",
     "index.html": "/AgataImobiliaria/index.html",
     "static/css/main.55f0022a.chunk.css.map": "/AgataImobiliaria/static/css/main.55f0022a.chunk.css.map",
-    "static/js/2.0128824b.chunk.js.LICENSE.txt": "/AgataImobiliaria/static/js/2.0128824b.chunk.js.LICENSE.txt",
+    "static/js/2.dd854e1c.chunk.js.LICENSE.txt": "/AgataImobiliaria/static/js/2.dd854e1c.chunk.js.LICENSE.txt",
     "static/media/sublogo.4abadc8e.png": "/AgataImobiliaria/static/media/sublogo.4abadc8e.png"
   },
   "entrypoints": [
     "static/js/runtime-main.1224093b.js",
-    "static/js/2.0128824b.chunk.js",
+    "static/js/2.dd854e1c.chunk.js",
     "static/css/main.55f0022a.chunk.css",
-    "static/js/main.77596629.chunk.js"
+    "static/js/main.249a9ce1.chunk.js"
   ]
 }
