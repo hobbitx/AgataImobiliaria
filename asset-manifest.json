@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AgataImobiliaria/static/css/main.55f0022a.chunk.css",
-    "main.js": "/AgataImobiliaria/static/js/main.3eab0858.chunk.js",
-    "main.js.map": "/AgataImobiliaria/static/js/main.3eab0858.chunk.js.map",
+    "main.js": "/AgataImobiliaria/static/js/main.95b4bc90.chunk.js",
+    "main.js.map": "/AgataImobiliaria/static/js/main.95b4bc90.chunk.js.map",
     "runtime-main.js": "/AgataImobiliaria/static/js/runtime-main.1224093b.js",
     "runtime-main.js.map": "/AgataImobiliaria/static/js/runtime-main.1224093b.js.map",
     "static/js/2.dd854e1c.chunk.js": "/AgataImobiliaria/static/js/2.dd854e1c.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1224093b.js",
     "static/js/2.dd854e1c.chunk.js",
     "static/css/main.55f0022a.chunk.css",
-    "static/js/main.3eab0858.chunk.js"
+    "static/js/main.95b4bc90.chunk.js"
   ]
 }
